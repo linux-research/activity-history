@@ -4,4 +4,5 @@ temp__/
 arch/
 arch_/
 arch__/
+*.sh
 *.7z
